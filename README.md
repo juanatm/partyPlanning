@@ -1,2 +1,2 @@
 # partyPlanning
- fake pary
+ fake par
